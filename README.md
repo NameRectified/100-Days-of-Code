@@ -10,9 +10,6 @@
 - You should make a folder in this repository with your name in which you can create your own readme, where you tell if you completed the tasks on that particular day or not. for eg checkout [1.demo](1.demo/) folder.
 - You can submit a pull-request after you have completed the given questions.
 - The questions will be easy in the beginning and they will gradually become harder and harder day by day.
-- There will be an *IDIOT* box for each day in this readme , displaying the names of people who participated in **100 Days of Code** and did not complete the given tasks on a particular day.
-- All the questions must be attempted in C/C++ or Java. No other Language is allowed.
-> Here you can check my schedule for completing the [**100 Days of Code**](KushagraShekhawat/Schedule.md)
 
 ---
 
@@ -23,21 +20,6 @@
 
 > **Note** : You have to mention whether you are participating in **100 Days of code** as a DSA student, GSOC aspirant or as both.
 
----
-<!--Name of Students-->
-- This table specifies the name of student participating in **100 Days of code** and their jobs.<br>
-- You have to add your name to this list. If you are participating.<br>
-
-|   Name                         | DSA  |  GSOC  |
-| ---                            | ---  | ---    |
-| Deepak Kumar                   |YES   |TRY     |
-| Dhruv Yadav                    |YES   |NO      |
-| Janmaijai Rana                 |YES   |YES     |
-| Kushagra Shekhawat             |YES   |YES     |
-| Shashwat Shukla                |YES   |TRY     |
-| Vaibhav Kumar                  |YES   |NO      |
-
-> 100 Days of Code will start from 13/01/2020
 
 ---
 
@@ -51,7 +33,7 @@
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ] Submit your Name for 100 Days of Code. 
-> **IDIOT BOX** : Empty
+
 
 ---
 
@@ -59,7 +41,7 @@
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
-> **IDIOT BOX** : Empty
+
  
 
   ---
@@ -68,7 +50,7 @@
 #### Tasks
 - [ ] Learn Git/GitHub.
 - [ ]  Submit your Name for 100 Days of Code.
-> **IDIOT BOX** : Empty
+
 
 ---
 
@@ -85,7 +67,7 @@
 > GSOC
 - [x] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
 - [x] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
-> **IDIOT BOX** : Janmaijai
+
 
 ---
 
@@ -101,7 +83,7 @@
 - [x] [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv
+
 
 ---
 
@@ -117,7 +99,7 @@
 - [x] [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav
+
 
 ---
 
@@ -133,7 +115,7 @@
 - [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
 
 ---
 
@@ -150,7 +132,7 @@
 - [x] [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Deepak
+
 
 ---
 
@@ -167,7 +149,7 @@
 - [ ] [Largest prime factor](https://practice.geeksforgeeks.org/problems/largest-prime-factor/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Janmaijai
+
 
 ---
 
@@ -182,7 +164,7 @@
 - [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav
+
 
 ---
 
@@ -195,7 +177,7 @@
 - [x] [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat, Janmaijai
+
 
 ---
 
@@ -208,7 +190,7 @@
 - [x] [Inversion of array](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat
+
 
 ---
 
@@ -221,7 +203,7 @@
 - [x] [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
-> **IDIOT BOX** : Dhruv, Vaibhav, Deepak, Shashwat,Janmaijai
+
 
 ---
 
@@ -234,7 +216,7 @@
 - [x] [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
+
 
 ---
 
@@ -248,7 +230,7 @@
 - [x] [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Janmaijai
+
 
 ---
 
@@ -261,7 +243,7 @@
 - [x] [Root to leaf path sum](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
   
 
 ---
@@ -278,7 +260,7 @@
 - [x] [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
 
 ---
 
@@ -292,7 +274,7 @@
 - [ ] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
 
 ---
 
@@ -305,7 +287,7 @@
 - [x] [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
 
 ---
 
@@ -317,7 +299,7 @@
 - [ ] [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
 
 ---
 
@@ -329,7 +311,7 @@
 - [ ] [Boolean Matrix Problem](https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
 
 ---
 
@@ -341,7 +323,7 @@
 - [x] [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -353,7 +335,7 @@
 - [x] [Intersection Point in Y Shaped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -365,7 +347,7 @@
 - [x] [Maximum Rectangular Area in a Histogram ](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
 
 ---
 
@@ -377,7 +359,7 @@
 - [ ] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
 
 ---
 
@@ -389,7 +371,7 @@
 - [x] [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
 
 ---
 
@@ -401,7 +383,7 @@
 - [ ] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
 
 ---
 
@@ -414,7 +396,7 @@
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
 - [x] [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
 - [x] [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1)
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -424,7 +406,7 @@
 - [ ] [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 - [x] [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)
 - [ ] [Count subsequences of type a^i, b^j, c^k](https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1)
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -436,7 +418,7 @@
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -448,7 +430,7 @@
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -460,7 +442,7 @@
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -472,7 +454,7 @@
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai
+
 
 ---
 
@@ -498,7 +480,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] Learn Graph Traversal Methods.
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav
+
 
 ---
 
@@ -509,7 +491,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Janmaijai, Deepak
+
 
 ---
 
@@ -520,7 +502,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Reverse a string using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
 
 ---
 
@@ -533,7 +515,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Deque Implementations](https://practice.geeksforgeeks.org/problems/deque-implementations/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
 
 ---
 
@@ -544,7 +526,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat, Deepak, Janmaijai
+
 
 ---
 
@@ -563,7 +545,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 > GSOC
 - [x] Work on some issues and try to fix them.
 
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat
+
 
 ---
 
@@ -580,7 +562,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
 
 ---
 
@@ -594,7 +576,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 > GSOC
 - [x] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
 
 ---
 
@@ -614,7 +596,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [X] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 > GSOC
 - [ ] Work on some issues and try to fix them
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak, Janmaijai
+
 
 ---
 
@@ -624,7 +606,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation/0)
 > GSOC
 - [ ] Work on some issues and try to fix them.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
 
 ---
 
@@ -635,7 +617,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -646,7 +628,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Reorder List](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -657,7 +639,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Max rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -668,7 +650,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak
+
 
 ---
 
@@ -679,7 +661,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -690,7 +672,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -702,7 +684,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Rotate a 2D array without using extra space](https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -713,7 +695,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Count Pairs whose sum is equal to X](https://practice.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -724,7 +706,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -735,7 +717,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find Transition Point](https://practice.geeksforgeeks.org/problems/find-transition-point/1)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -754,7 +736,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -772,7 +754,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [ ] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -789,7 +771,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -804,7 +786,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -818,7 +800,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -832,7 +814,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -846,7 +828,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Start making Proposal for GSOC.
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -860,7 +842,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Completed proposal for GSOC
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -874,7 +856,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Completed proposal for GSOC
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -889,7 +871,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Completed proposal for GSOC
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -903,7 +885,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Completed Draft proposal for GSOC
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -916,7 +898,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
 > GSOC
 - [x] Submitted Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -928,7 +910,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 > GSOC
 - [x] Submitted Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -939,7 +921,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -950,7 +932,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -961,7 +943,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s/0)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -972,7 +954,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Rearrange Array Alternately](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -983,7 +965,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [ ] [Leaves to DLL](https://practice.geeksforgeeks.org/problems/leaves-to-dll/1)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -994,7 +976,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1004,7 +986,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Construct Tree from Preorder Traversal](https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1)
 > GSOC
 - [x] Improve Draft Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1015,7 +997,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Longest Sub-Array with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1026,7 +1008,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Maximum Sub Array](https://practice.geeksforgeeks.org/problems/maximum-sub-array/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1036,7 +1018,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Binary Tree to CDLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-cdll/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1047,7 +1029,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Foldable Binary Tree](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1057,7 +1039,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Design a tiny URL or URL shortener](https://practice.geeksforgeeks.org/problems/design-a-tiny-url-or-url-shortener/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1068,7 +1050,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Find the Closest Element in BST](https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1/) 
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1079,7 +1061,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [k-th smallest element in BST](https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) 
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1089,7 +1071,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Pairs violating BST property](https://practice.geeksforgeeks.org/problems/pairs-violating-bst-property/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1110,7 +1092,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Swap Kth nodes from ends](https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1121,7 +1103,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Check if subtree](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) 
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1133,7 +1115,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1143,7 +1125,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1154,7 +1136,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Minimum Swaps to Sort](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1165,7 +1147,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/overlapping-intervals/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1176,7 +1158,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Equal Sum](https://practice.geeksforgeeks.org/problems/equal-sum/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1187,7 +1169,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Possible groups](https://practice.geeksforgeeks.org/problems/possible-groups/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1198,7 +1180,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Maximize The Array](https://practice.geeksforgeeks.org/problems/maximize-the-array/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1209,7 +1191,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Largest Sum Subarray of Size at least K](https://practice.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1220,7 +1202,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Minimum sum](https://practice.geeksforgeeks.org/problems/minimum-sum/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1231,7 +1213,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Large Factorials](https://practice.geeksforgeeks.org/problems/large-factorials/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1242,7 +1224,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1257,7 +1239,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Intersection of two sorted Linked lists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1273,7 +1255,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Non-Repeating Element](https://practice.geeksforgeeks.org/problems/non-repeating-element/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1288,7 +1270,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1301,7 +1283,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Minimum Depth of a Binary Tree](https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1312,7 +1294,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Maximum difference between node and its ancestor](https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1323,7 +1305,7 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Maximum of minimum for every window size](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 ---
 
@@ -1336,6 +1318,6 @@ Finally, there is a long road ahead **Keep on Grinding** :muscle: .<br>
 - [x] [Distinct absolute array elements](https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements/0)
 > GSOC
 - [x] Submitted Proposal
->**IDIOT BOX** : Dhruv, Vaibhav, Shashwat,Deepak,Janmaijai
+
 
 # Finished 100 Days of Code Successfully  :fire:. Currently I am waiting for the GSOC Results. Thank you everyone who was part of the program.
